@@ -8,10 +8,10 @@ Welcome to my GitHub portfolio! Here are some of my highlighted projects:
 2. [Minesweeper Game](https://github.com/pranavbond007/Minesweeper-Game)
    - A grid-based game in C++ using event-driven programming.
 
-3. [Blackjack with AI](https://github.com/yourusername/blackjack-ai)
+3. [Blackjack with AI](https://github.com/pranavbond007/Blackjack-with-Ai)
    - A C++ game where players compete with an AI dealer.
 
-4. [Amazon Web Clone](https://github.com/yourusername/amazon-web-clone)
+4. [Netflix Web Clone](https://github.com/pranavbond007/Netflix-clone)
    - A responsive webpage clone using HTML and CSS.
 
 Feel free to explore each project by clicking on the links above!
