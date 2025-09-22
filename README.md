@@ -7,6 +7,7 @@ Welcome to my GitHub portfolio! Here are some of my highlighted projects:
 
 2. [StreeSakhi](https://github.com/PriyanshuNITSGR/proj2.0)
    - A full-stack RAG-powered safety platform offering confidential Q&A, crisis detection, and AI-driven supportive responses for women.
+     
 
 Feel free to explore each project by clicking on the links above!
 
